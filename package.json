@@ -2,12 +2,13 @@
   "name": "react-codepen-clone",
   "private": true,
   "version": "0.0.0",
+  "homepage": "https://avomakesart.github.io/react-codepen-clone/",
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
     "preview": "vite preview",
     "predeploy": "yarn build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d dist"
   },
   "peerDependencies": {
     "react": ">=16"
