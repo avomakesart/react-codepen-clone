@@ -1,6 +1,6 @@
 {
   "name": "react-codepen-clone",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "homepage": "https://avomakesart.github.io/react-codepen-clone/",
   "scripts": {
